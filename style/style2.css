@@ -1,0 +1,49 @@
+.img2{
+    clip-path: polygon(0 0, 100% 0%, 69% 100%, 0% 100%);
+    width: 45%;
+    margin-top: 60px;
+    margin-left: 50px;
+    height: 400px;
+}
+.time{
+    clip-path: circle();
+    color:aqua;
+}
+p{
+    color: black;
+    border-radius: 30%;
+}
+/* .circle{
+    border: 2px black solid;
+    clip-path: circle(12.5% at 51% 49%);
+} */
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.box{
+    /* border: 6px solid black; */
+    width: 35%;
+    height: 400px;
+    margin-top: 60px;
+    /* clip-path: polygon(23% 0, 100% 0, 100% 100%, 0% 100%); */
+    color:black;
+    
+}
+.general{
+    display: flex;
+}
+h1{
+    color: red;
+    margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circle{
+    border: 2px black solid;
+    border-radius: 50%;
+    width: 40px;
+    height: 45px;
+    
+}
